@@ -1,8 +1,8 @@
-# Example Home Assistant add-on repository
+# Bettercap Home Assistant Add-On
 
-This repository can be used as a "blueprint" for add-on development to help you get started.
+This repository is an attempt at a [Bettercap](https://www.bettercap.org/) add-on for Home Assistant, particularly to allow for BLE traffic monitoring.
 
-Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>
+Home Assistant Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>
 
 [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fhome-assistant%2Faddons-example)
 
